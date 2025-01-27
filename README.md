@@ -55,7 +55,7 @@ TCotMechanism/eval_qa.py --dir <path_to_saved_checkpoints>
 ##  Two-stage Generalizing Circuit
 
 ```test example
-TCotMechanism/tracing_composition1.py  #check the first stage
+TCotMechanism/tracing_composition.py  #check the first stage
 TCotMechanism/tracing_composition1.py  #check the second stage
 ```
 
