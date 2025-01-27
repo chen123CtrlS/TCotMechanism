@@ -1,0 +1,10 @@
+checkpoint-2000 | id_atomic: 0.341; ood_atomic: 0.003; train_inferred: 0.134; test_inferred_iid: 0.089; test_inferred_ood: 0.0
+checkpoint-4000 | id_atomic: 0.839; ood_atomic: 0.015; train_inferred: 0.569; test_inferred_iid: 0.53; test_inferred_ood: 0.0
+checkpoint-6000 | id_atomic: 0.844; ood_atomic: 0.116; train_inferred: 0.641; test_inferred_iid: 0.564; test_inferred_ood: 0.01
+checkpoint-8000 | id_atomic: 0.89; ood_atomic: 0.408; train_inferred: 0.718; test_inferred_iid: 0.555; test_inferred_ood: 0.067
+checkpoint-10000 | id_atomic: 0.931; ood_atomic: 0.686; train_inferred: 0.781; test_inferred_iid: 0.538; test_inferred_ood: 0.181
+checkpoint-12000 | id_atomic: 0.956; ood_atomic: 0.857; train_inferred: 0.82; test_inferred_iid: 0.545; test_inferred_ood: 0.327
+checkpoint-14000 | id_atomic: 0.967; ood_atomic: 0.96; train_inferred: 0.868; test_inferred_iid: 0.546; test_inferred_ood: 0.447
+checkpoint-16000 | id_atomic: 0.971; ood_atomic: 0.988; train_inferred: 0.893; test_inferred_iid: 0.544; test_inferred_ood: 0.496
+checkpoint-18000 | id_atomic: 0.979; ood_atomic: 0.99; train_inferred: 0.921; test_inferred_iid: 0.526; test_inferred_ood: 0.497
+checkpoint-20000 | id_atomic: 0.984; ood_atomic: 0.994; train_inferred: 0.943; test_inferred_iid: 0.533; test_inferred_ood: 0.513
